@@ -2,7 +2,6 @@
   "name": "vue-simple-file-picker",
   "version": "1.0.0",
   "description": "A vue package for files picking and uploading",
-  "main": "index.js",
   "author": "Fanick DJOKLI",
   "scripts": {
     "dev": "vue serve VueSimpleFilePicker.vue",
